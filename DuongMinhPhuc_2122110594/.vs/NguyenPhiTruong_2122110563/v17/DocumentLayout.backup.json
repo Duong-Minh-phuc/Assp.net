@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\DuonMinhPhuc_2122110594\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\dto\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\dto\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\dto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\dto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\dto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\dto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|d:\\asp\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\dto\\orderdetailcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73383325-9F52-43AA-8B67-9AAD38E853DA}|DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.csproj|solutionrelative:DuonMinhPhuc_2122110594\\dto\\orderdetailcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:05:30.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\User.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\User.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\User.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:45:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Menu.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\Menu.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Menu.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T01:53:02.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\MenuDto.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\DTO\\MenuDto.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\MenuDto.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\DTO\\MenuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:35:17.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:41:57.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Program.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Program.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Program.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:49:28.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\Product.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Product.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:45:20.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\UserLogin.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\UserLogin.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\UserLogin.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:26:15.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\UserRegister.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\UserRegister.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\UserRegister.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\UserRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:34:18.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\WeatherForecast.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\WeatherForecast.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:52:35.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\appsettings.json",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\appsettings.json",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\appsettings.json",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T06:50:50.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:25:16.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:33:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:33:02.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:36:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:27:45.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:37:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:01:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\Order.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Order.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:24:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderCreateDTO.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\OrderCreateDTO.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\DTO\\OrderCreateDTO.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\OrderCreateDTO.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\DTO\\OrderCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:38:56.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailCreateDTO.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\OrderDetailCreateDTO.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\DTO\\OrderDetailCreateDTO.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\OrderDetailCreateDTO.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\DTO\\OrderDetailCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:39:05.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\Category.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Category.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:45:22.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\DTO\\CategoryDto.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:34:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\BrandDto.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\DTO\\BrandDto.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DTO\\BrandDto.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\DTO\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:35:06.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Model\\Brand.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Model\\Brand.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Model\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:41:28.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T06:52:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:40:32.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DuonMinhPhuc_2122110594.http",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.http",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.http",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.http",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-29T07:17:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Services\\JwtService.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Services\\JwtService.cs",
+              "RelativeToolTip": "DuonMinhPhuc_2122110594\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:10:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DuonMinhPhuc_2122110594\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ASP\\DuonMinhPhuc_2122110594\\DuonMinhPhuc_2122110594\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DuongMinhPhuc_2122110594\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:34:43.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAYTAAAAAAAAAAAswAoTAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-05T06:28:08.184Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
